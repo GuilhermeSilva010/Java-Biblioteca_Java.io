@@ -1,0 +1,16 @@
+modelo de john fon newman
+ajudou na teoria dos conjutos, analise funcional..
+descreveu a arquitetura de computadores.
+lendo as instruçoes.
+
+
+registrador extrat pointer, aponta para  uma pilha na memoria, empilhando dados, informaçoes.
+o return,pega os endereços de returno nas pilhas e levando até a interface.
+
+o hardware consegue ler operadores logico. &, || entre outros.
+
+rom - Read Only Memory
+Memoria de apenas leitura
+
+ git config --global http.proxy http://Guilherme:123456@proxy.server.com:8080
+$ git remote add origin https://GuilhermeCaravlho010:Guilherme1325@github.com/GuilhermeCarvalho010/JavaBankgs.git
